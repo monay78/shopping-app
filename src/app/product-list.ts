@@ -1,4 +1,4 @@
-import { Product } from '.product';
+import { Product } from '.src/app/product';
 
 export const PRODUCTS: Product[] = [
 {id: 1, name: 'Doritos', description: 'Cheese flavored torilla chips', price: 3.00, rating: 8.5, seller: "Frito-Lay", warranty: "30 days"},
